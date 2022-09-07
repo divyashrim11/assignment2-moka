@@ -49,3 +49,29 @@ This section tells about four cities I would like to recommend someone to visit.
 > Find a reason to smile everyday! :) - *Divya Shree Moka*
 
 > In a world full of horses, be a unicorn! :P - *Divya Shree Moka*
+
+---
+## Code Fencing
+
+> What's the difference between SCSS and Sass?
+
+Stack Overflow: <https://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass>
+```
+$o-grid-default-config: (
+    columns: 12,
+    gutter: 10px,
+    min-width: 240px,
+    max-width: 1330px,
+    layouts: (
+        S:  370px,  // ≥20px columns
+        M:  610px,  // ≥40px columns
+        L:  850px,  // ≥60px columns
+        XL: 1090px  // ≥80px columns
+    ),
+    fluid: true,
+    debug: false,
+    fixed-layout: M,
+    enhanced-experience: true
+);
+```
+Snippet Code: <https://css-tricks.com/snippets/sass/deep-getset-maps/>
