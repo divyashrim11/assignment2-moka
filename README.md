@@ -42,3 +42,10 @@ This section tells about four cities I would like to recommend someone to visit.
 | 2) Queensland    |   The Great Barrier Reef   |    5 hours       |
 | 3) Seoul         |   Namsan Tower    |    5 hours       |
 | 4) Bangalore     |   Iskcon    |    4 hours       |
+
+---
+## Quotes that I like 
+
+> Find a reason to smile everyday! :) - *Divya Shree Moka*
+
+> In a world full of horses, be a unicorn! :P - *Divya Shree Moka*
