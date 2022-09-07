@@ -31,3 +31,14 @@ List of other locations around the museum I would like to recommend others:
 - Fremont Street
 
 ***[Link to AboutMe.md](AboutMe.md)***
+
+---
+## Four cities I would like to recommend someone to visit
+
+This section tells about four cities I would like to recommend someone to visit.
+| Name of the City | Place to visit | Time to be spent |
+| :-------------- | :------------ | :-------------- |
+| 1) Hyderabad     |   Charminar    |    7 hours       |
+| 2) Queensland    |   The Great Barrier Reef   |    5 hours       |
+| 3) Seoul         |   Namsan Tower    |    5 hours       |
+| 4) Bangalore     |   Iskcon    |    4 hours       |
