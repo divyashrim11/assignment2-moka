@@ -10,7 +10,7 @@ Madame Tussauds at Las Vegas is the World's Greatest Wax Museum and it is one of
 It has got lots of wax figures which include figures of **Britney Spears**, Elvis Presley, Nicki Minaj, Miley Cyrus, Will Smith, **Taylor Swift**,Jackie Chan, **Marvel Superheroes**, Tupac, Beyonce, __Jennifer Aniston__, Fred Astaire, Ariana Grande and many more.
 
 ---
-### Brief explanation about airport
+## Brief explanation about airport
 
 The nearest airport to Madame Tussauds Las Vegas is Harry Reid International Airport. Harry Reid International Airport is an international airport in Paradise, Nevada.
 1. Head South on McCarran Airport Connector/Paradise Road towards Wayne Newton Blvd.
