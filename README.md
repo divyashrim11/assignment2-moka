@@ -20,3 +20,12 @@ The nearest airport to Madame Tussauds Las Vegas is Harry Reid International Air
 5. Use the left 2 lanes to turn left onto E Tropicana Ave.
 6. Turn right onto Las Vegas Blvd S.
 7. Destination will be on the right.
+
+List of other locations around the museum I would like to recommend others:
+- High Roller
+- The Mob Museum
+- Titanic: The Artifact Exhibition
+- Red Rock Canyon National Conservation Area
+- Fountains of Bellagio
+- David Copperfield Theater
+- Fremont Street
